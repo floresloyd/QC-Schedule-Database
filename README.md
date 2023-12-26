@@ -1,2 +1,2 @@
 # QC-Schedule-Database
-Design a Database for all classes offered in Queens College for Fall 24'
+Database design for all classes offered in Queens College for Fall 24'
