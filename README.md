@@ -40,9 +40,5 @@ We were presented with the complete dataset of all classes offered at Queens Col
 - **JDBC Walkthrough**: [Watch JDBC Walkthrough](https://clipchamp.com/watch/c11LS85jrDX) - A video walkthrough of the JDBC usage for custom queries.
 
 ## Course Information
-This project was developed as part of the CSCI 331 - Database Management course, under the guidance of Prof. Peter Heller.
----
-
-
-
+- This project was developed as part of the CSCI 331 - Database Management course, under the guidance of Prof. Peter Heller.
 ---
