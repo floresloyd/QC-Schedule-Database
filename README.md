@@ -41,6 +41,6 @@ We were presented with the complete dataset of all classes offered at Queens Col
 
 ## Course Information
 - This project was developed as part of the CSCI 331 - Database Management course, under the guidance of Prof. Peter Heller.
-  Contributors:
-  Mohammed Hasan: [Mohammed Github Link](https://github.com/Mzohairhasan)
+- Contributors:
+-   Mohammed Hasan: [Mohammed's Github Link](https://github.com/Mzohairhasan)
 ---
