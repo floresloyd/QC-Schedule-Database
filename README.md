@@ -1,5 +1,5 @@
 # Queens Class Schedule Database
-Database design for all classes offered in Queens College for Fall 24'
+Database design for all classes offered in Queens College for Fall 23'
 
 
 ## Project Overview
